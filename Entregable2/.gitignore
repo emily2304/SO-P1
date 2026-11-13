@@ -1,7 +1,7 @@
 *.o
 *.a
-dsmd
-dsmctl
-apps/matmul
-apps/coherencia
+/dsmd
+/dsmctl
+/apps/matmul
+/apps/coherencia
 /dsm.conf

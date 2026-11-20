@@ -1,0 +1,11 @@
+*.o
+*.a
+/dsmd
+/dsmctl
+apps/matmul
+apps/coherencia
+apps/video
+apps/contador
+*.rgb
+*.gray
+/dsm.conf
